@@ -1,0 +1,84 @@
+<===> Tag <===>
+
+=> h1-------h6
+=> p
+=> div
+=> a
+=> label
+=> option
+=> select
+=> sub 
+=> sup
+=> input
+=> hr
+=> img
+=> area
+=> aside
+=> audio
+=> br
+=> data
+=> details
+=> footer
+=> form
+=> header
+=> link
+=> main
+=> nav
+=> ol
+=> ul
+=> li
+=> table
+=> td
+=> th
+=> tr
+=> progress
+=> strong
+=> summary
+=> textarea
+=> vedio
+=> audio
+=> del
+=> i
+=> canvas
+=> section
+
+-----------------------------------------
+
+<===> Attribute <===>
+
+=> placeholder
+=> required
+=> value
+=> readonly
+=> disabled
+=> title
+=> style
+=> class
+=> id
+
+-----------------------------------------
+
+<===> type <===>
+
+button
+checkbox
+date
+datetime-local
+email
+file
+hidden
+image
+month
+number
+password
+radio
+range
+reset
+search
+submit
+text
+time
+url
+week
+
+-------------------------------------------
